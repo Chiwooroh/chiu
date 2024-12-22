@@ -91,7 +91,7 @@ education:
 social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.co.kr/citations?user=dwmxOk0AAAAJ&hl
+    link: https://scholar.google.co.kr/citations?user=dwmxOk0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/chiwooroh

@@ -48,18 +48,7 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        * **[Nov 2024]** Gave an invited talk at [Korea University DAIS Lab](https://dais.korea.ac.kr/) about Goal-Oriented Language Model
-        * **[Sep 2024]** 
-          - Our [ContAccum](https://arxiv.org/abs/2406.12356v1) paper has been accepted to **NeurIPS 2024**! 
-          - I have started my Postdoc at Boston University @ tinlab 🤖💭🦔
-        * **[Aug 2024]** Gave an invited talk at SKT about LLM based evaluation for Open-ended generation
-        * **[June 2024]** I'm excited to share that I have successfully defended my Ph.D! 👩🏻‍🎓🌟
-        * **[May 2024]** Our retrieval based log anomaly detection paper ([RAPID](https://arxiv.org/abs/2311.05160)) has been accepted for publication in the EAAI journal! (Q1, IF=8.0)
-        * **[Apr 2024]** We released new LLM based Writing paper (preprint)!; Check out [WritingPath](https://arxiv.org/abs/2404.13919)
-        * **[Mar 2024]** Our Checklist based LLM Evaluation paper ([CheckEval](https://arxiv.org/abs/2403.18771)) has been accepted at HEAL @ CHI 2024
-        * **[Feb 2024]**  
-          - I won the Outstanding Paper Award from Korea University (BK21)
-          - Our Entity Adaptive DST paper ([DSTEA](https://arxiv.org/abs/2207.03858)) has been accepted for publication in the Knowledge-Based Systems journal (Q1, IF=8.8)
+        * **[Dec 2024]** Opened a new homepage!
       # * **~ 2023**
       #   * **[Sep 2023]** Our Log Anomaly Detection paper (LAnoBERT) has been accepted for publication in the Applied Soft Computing journal (Q1, IF=8.7)
       #   * **[Jun 2023]** Our Entity Adaptive DST paper (DSTEA) has been accepted at KnowledgeNLP @ KDD 2023
@@ -80,26 +69,8 @@ sections:
       text: |-
         ## Work Experience
 
-        **Boston University** <span style="float:right">Sep 2024 - Present</span> <br>
-        Postdoctoral Associate @ tinlab
-
-        **Hankuk University of Foreign Studies** <span style="float:right">Mar 2024 - June 2024</span> <br>
-        Visiting Lecturer @ Department of Industrial and Management Engineering
-        * Class : Special Topics in Industrial Systems Engineering (T02459101)
-        * Topic: Natural Language Processing 
-
-        **Naver** <span style="float:right">Apr 2023 - July 2023</span> <br>
-        Research Intern @ Unsupervised Learning Team (Mentors: [Soonwon Ka](https://www.linkedin.com/in/soonwon-ka-664045b6/), [Bokyung Son](https://scholar.google.com/citations?user=EoFIGVAAAAAJ&hl=en), [Jaewook Kang](https://scholar.google.com/citations?user=ai2XNnMAAAAJ&hl=en))
-        * Topic : Writing with AI
-        * Contributed to [CLOVA for Writing](https://www.youtube.com/watch?v=Xl2_a0cxcg8&ab_channel=PLAYNAVER) @ Naver
-        * Additional Research Collaboration (Aug 2023 - Apr 2024)
-
-        **Upstage** <span style="float:right">Jan 2021 - Apr 2024 </span> <br>
-        Education Mentor
-        * Generative AI Mentor (6th, Teaching: [Pilsung Kang](https://scholar.google.com/citations?user=I2pcWZIAAAAJ&hl=en))
-        * Natural Language Processing Mentor (4th)
-        * Machine Reading Comprehension Mentor (2nd, Teaching: [Minjoon Seo](https://seominjoon.github.io/))
-        * Dialogue State Tracking Mentor (1st, Teaching: [Sundong Kim](https://scholar.google.com/citations?user=xKrSnDoAAAAJ&hl=en)) 
+        **Ajou University** <span style="float:right">Sep 2023 - Present</span> <br>
+        Researcher(M.S. Student) @ MOVELAB
 
     design:
       columns: '2'
@@ -108,7 +79,7 @@ sections:
     id: publications
     content:
       title: Publications
-      subtitle: 'For an up-to-date list of publications, <br> check out my {{< icon name="google-scholar" pack="ai" >}}[Google Scholar](https://scholar.google.com/citations?user=V6Hm5rEAAAAJ&hl=en).'
+      subtitle: 'For an up-to-date list of publications, <br> check out my {{< icon name="google-scholar" pack="ai" >}}[Google Scholar](https://scholar.google.co.kr/citations?user=dwmxOk0AAAAJ&hl=en).'
       filters:
         folders:
           - publications
