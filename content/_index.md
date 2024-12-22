@@ -134,12 +134,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: NLP
-          tag: NLP
-        - name: AI
+        - name: Autonomous Driving
+          tag: AV
+        - name: Data Analytics
           tag: AI
-        - name : Optimization
-          tag: Optimization
         - name: Other
           tag: Demo
     design:
